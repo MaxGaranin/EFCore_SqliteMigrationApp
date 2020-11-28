@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteMigrationApp", "SqliteMigrationApp\SqliteMigrationApp.csproj", "{807EEF7A-F9AC-477B-8E14-889C9A4BFBB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807EEF7A-F9AC-477B-8E14-889C9A4BFBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807EEF7A-F9AC-477B-8E14-889C9A4BFBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807EEF7A-F9AC-477B-8E14-889C9A4BFBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807EEF7A-F9AC-477B-8E14-889C9A4BFBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8DA4D57-7DC2-4D35-AE1F-F564642781C8}
+	EndGlobalSection
+EndGlobal
